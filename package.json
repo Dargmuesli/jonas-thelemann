@@ -19,7 +19,7 @@
     "url": "https://github.com/dargmuesli/jonas-thelemann/issues"
   },
   "dependencies": {
-    "chart.js": "2.9.4",
+    "chart.js": "3.4.1",
     "dragula": "3.7.3",
     "gettext-parser": "4.0.4",
     "jquery": "3.6.0",
